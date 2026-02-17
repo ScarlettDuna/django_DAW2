@@ -142,3 +142,5 @@ Si has completado los pasos anteriores, la tabla `app_proveedor` ya existe en la
 *   ¿Qué necesitas importar y qué línea de código tienes que añadir?
 
 ¡Inténtalo! Si lo consigues, podrás crear, ver y editar proveedores desde la interfaz web de Django.
+
+python manage.py makemigrations - Dentro del exec del servidor en Docker Desktop
